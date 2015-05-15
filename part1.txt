@@ -10,7 +10,7 @@ Using the request/response cycle as a guide, this has been our workflow when mak
 4. Create a view with HTML and CSS.
 5. Run the local web server and preview the app in the browser.
 
-Practice what I learned in this section with two real-world projects:
+Practice what I learned with two real-world projects:
 
 1. Broadway
 2. Bolt Network
