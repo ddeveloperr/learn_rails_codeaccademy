@@ -12,6 +12,6 @@ Using the request/response cycle as a guide, this has been our workflow when mak
 
 Practice what I learned with two real-world projects:
 
-1. Broadway
-2. Bolt Network
+1. Broadway : http://www.codecademy.com/en/practice/learn-rails/topics/start/projects/learn-rails_broadway
+2. Bolt Network : http://www.codecademy.com/en/practice/learn-rails/topics/start/projects/learn-rails_bolt-network
 
