@@ -15,3 +15,20 @@ The browser sends the data to the Rails app via an HTTP POST request to the URL 
 This time, the Rails router maps this URL to the update action.
 The update uses the destination_params method to safely collect data from the form.
 It finds the destination in the database, updates its attributes, and redirects to the destination's show page.
+
+**********************************
+
+What can we generalize so far?
+
+We connected a Tag to its Destinations using associations. In this case, a tag has_many destinations, and a destination belongs_to one tag.
+The has_many / belongs_to pair can be used to model other one-to-many relationships, which occur frequently.
+
+Rails provides seven standard controller actions can be used to do common things such as display and change data
+
+Instructions
+
+Practice what you learned in this section with two real-world projects:
+
+Bookmarks : http://www.codecademy.com/en/practice/learn-rails/topics/one-many/projects/learn-rails_bookmarks
+ 
+Bass Music : http://www.codecademy.com/en/practice/learn-rails/topics/one-many/projects/learn-rails_bass-music
